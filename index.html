@@ -11,7 +11,7 @@
     }
     
     .medium-image {
-      width: 400px;
+      width: 500px;
     }
     
     .thin-black-border {
@@ -25,13 +25,17 @@
       background-color: silver;
     }
     
+    #digital-marketing-form {
+      background-color: orange;
+    }
+    
   </style>
   
 <body>
   
   <a href=#>Portfolio</a>
   
-<h1 class="purple-text">Kegan Sanchez</h1> 
+<h1 id="name" class="purple-text">Kegan Sanchez</h1> 
   
   <img class="smaller-image thin-black-border" src="https://kegans.github.io/profilePic.jpg" alt="Profile picture.">
   
@@ -57,17 +61,17 @@
  </ul>
 </div>
   
- <form action="submit-digital-marketing-site">
+<p>If you know of any good sources of digital marketing courses or reference sites, please submit them !</p>
+  
+ <form id="digital-marketing-form" action="submit-digital-marketing-site">
    <label><input type="radio" name="reference-course"> reference</label>
    <label><input type="radio" name="reference-course"> course</label>
    <input type="text" required placeholder="digital marketing sites">
    <button type="submit">Submit</button>
    
-   <!-- Set checkboxes or radio buttons to be checked by default with 'checked' attribute after name in 'input' -->
+   <!-- can set checkboxes or radio buttons to be checked by default with 'checked' attribute after name in 'input' -->
    
  </form>
-  
-  
   
   </body>
   
