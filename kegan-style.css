@@ -3,17 +3,13 @@
       background-color: silver;
     }
     
-    .big-box {
-      background-color: silver;
-      margin: -15px;
-    }
     
     .inner-box {
      background-color: white;
      text-align: center;
      padding: 10px;
      margin: auto;
-     width: 500px;
+     width: 800px;
     }
     
     .box {
