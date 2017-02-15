@@ -7,9 +7,10 @@
     .inner-box {
      background-color: white;
      text-align: center;
+     height: -5px;
      padding: 10px;
      margin: auto;
-     width: 75%;
+     width: 60%;
     }
     
     .box {
