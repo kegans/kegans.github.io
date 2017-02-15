@@ -1,0 +1,67 @@
+ 
+ body {
+      background-color: silver;
+    }
+    
+    .big-box {
+      background-color: silver;
+      margin: -15px;
+    }
+    
+    .inner-box {
+      background-color: white;
+      margin-left: 500px;
+      margin-right: 500px;
+    }
+    
+    .box {
+      text-align: center;
+    }
+    
+    .smaller-image {
+      width: 200px;
+    }
+    
+    .medium-image {
+      width: 600px;
+      margin: 20px;
+    }
+    
+    .thin-black-border {
+      border-color: black;
+      border-width: 0px;
+      border-style: solid;
+      border-radius: 20%;
+    }
+    
+    .silver-background {
+      background-color: silver;
+    }
+    
+    .banner {
+      padding: 20px;
+      margin: 5px -500px 5px -500px;
+      background-color: black;
+    }
+    
+    .name-photo {
+      padding: 10px;
+    }
+    
+    .list {
+      text-align: left;
+      padding: 5px;
+      margin-right: 350px;
+      margin-left: 350px;
+    }
+    
+    .form {
+      padding: 5px;
+      margin-right: 250px;
+      margin-left: 250px;
+    }
+    
+    #digital-marketing-form {
+      background-color: orange;
+      margin: 10px;
+    }
