@@ -9,8 +9,11 @@
     }
     
     .inner-box {
-      background-color: white;
-      width: 50px;
+     background-color: white;
+     text-align: center;
+     padding: 10px;
+     margin: auto;
+     width: 50%;
     }
     
     .box {
