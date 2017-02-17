@@ -42,19 +42,6 @@
      margin: -10px -10px -5px -10px;
      background-color: black;
     }
-
-    .noscroll { 
-      overflow: hidden;
-    }
-
-   .overlay { 
-    position: fixed; 
-    overflow-y: scroll;
-    top: 0; right: 0; bottom: 0; left: 0; 
-    }
-
-[aria-hidden="true"]  { display: none; }
-[aria-hidden="false"] { display: block; }
     
     .name-photo {
       padding: 10px;
@@ -73,7 +60,3 @@
       margin-left: 10px;
     }
     
-    #digital-marketing-form {
-      background-color: orange;
-      margin: 10px;
-    }
