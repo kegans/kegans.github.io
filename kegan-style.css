@@ -1,63 +1,7 @@
 
 body {
- background: silver;
+ background: black;
  text-align: center;
- color: black;
+ color: white;
+ font-family: helvetica;
     }
-
-.inner-box {
-     background: white;
-     text-align: center;
-     padding: 10px;
-     margin: auto;
-     width: 60%;
-    }
-    
-    .box {
-      text-align: center;
-    }
-    
-    .smaller-image {
-      width: 200px;
-    }
-    
-    .medium-image {
-      width: 600px;
-      margin: 20px;
-    }
-    
-    .thin-black-border {
-      border-color: black;
-      border-width: 0px;
-      border-style: solid;
-      border-radius: 20%;
-    }
-    
-    .silver-background {
-     background-color: silver;
-     width: 50%;
-    }
-    
-    .banner {
-     padding: 20px;
-     margin: -10px -10px -5px -10px;
-     background-color: black;
-    }
-    
-    .name-photo {
-      padding: 10px;
-    }
-    
-    .list {
-      text-align: left;
-      padding: 5px;
-      margin-right: 10px;
-      margin-left: 10px;
-    }
-    
-    .form {
-      padding: 5px;
-      margin-right: 10px;
-      margin-left: 10px;
-    }
-    
