@@ -1,11 +1,12 @@
- 
- body {
-      background-color: silver;
+
+body {
+ background: silver;
+ text-align: center;
+ color: black;
     }
-    
-    
-    .inner-box {
-     background-color: white;
+
+.inner-box {
+     background: white;
      text-align: center;
      padding: 10px;
      margin: auto;
