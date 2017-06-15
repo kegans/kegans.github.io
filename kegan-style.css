@@ -13,7 +13,7 @@ header {
  color: white;
  background: url("https://kegans.github.io/dark_polygon06.png");
  background-size: cover;
- padding: 10px;
+ padding: 20px;
 }
 
 a {
@@ -33,6 +33,12 @@ li {
  display: inline;
  padding: 0px 10px 0px 10px;
 }
+
+ article {
+      width: 500px;
+      padding: 20px;
+      margin: 0 auto;
+    }
 
 p {
  font-size: 22px;
