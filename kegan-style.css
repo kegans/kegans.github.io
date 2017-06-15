@@ -1,10 +1,14 @@
 
 body {
  background: black;
- text-align: center;
  color: white;
  font-family: helvetica;
     }
+
+header {
+ text-align: center;
+}
+
 p {
  font-size: 22px;
 }
