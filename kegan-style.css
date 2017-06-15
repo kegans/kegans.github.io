@@ -41,17 +41,17 @@ li {
 }
 
  article {
-      max-width: 800px;
+      max-width: 600px;
       padding: 20px;
       margin: 0 auto;
     }
 
 p {
- font-size: 12px;
+ font-size: 18px;
  color: white;
 }
 
-@media (max-width: 800px){
+@media (max-width: 600px){
  
  h1 { 
   font-size: 36px;
