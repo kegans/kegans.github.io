@@ -13,6 +13,7 @@ header {
  color: white;
  background: url("https://kegans.github.io/dark_polygon06.png");
  background-size: cover;
+ margin-top: 0px;
 }
 
 a {
@@ -34,11 +35,24 @@ li {
 }
 
  article {
-      width: 500px;
+      max-width: 500px;
       padding: 20px;
       margin: 0 auto;
     }
 
 p {
  font-size: 22px;
+}
+
+@media {
+ 
+ h1 { 
+  font-size: 36px;
+ }
+ 
+ li {
+  display: block;
+  padding: 5px;
+ }
+ 
 }
