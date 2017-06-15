@@ -1,14 +1,18 @@
 
 body {
  background: black;
- color: white;
  font-family: helvetica;
 }
 
 header {
  text-align: center;
+ color: white;
  background: url("https://kegans.github.io/dark_polygon06.png");
  background-size: cover;
+}
+
+a {
+ color: white;
 }
 
 ul {
