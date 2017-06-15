@@ -13,6 +13,7 @@ header {
  color: white;
  background: url("https://kegans.github.io/dark_polygon06.png");
  background-size: cover;
+ padding: 10px 0px;
 }
 
 a {
