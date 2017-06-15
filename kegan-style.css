@@ -3,10 +3,12 @@ body {
  background: black;
  color: white;
  font-family: helvetica;
-    }
+}
 
 header {
  text-align: center;
+ background: url("https://kegans.github.io/dark_polygon06.png");
+ background-size: cover;
 }
 
 ul {
@@ -15,6 +17,7 @@ ul {
 
 li {
  display: inline;
+ padding: 0px 10px 0px 10px;
 }
 
 p {
