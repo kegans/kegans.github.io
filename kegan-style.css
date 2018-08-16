@@ -55,7 +55,7 @@ li {
 
 p {
  font-size: 18px;
- color: white;
+ color: grey;
 }
 
 @media (max-width: 600px){
