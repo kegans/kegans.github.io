@@ -63,8 +63,8 @@ p {
 }
 
 .files {
- margin: auto;
- width: 500%;
+ margin: 0 auto;
+ width: 50%;
 }
 
 @media (max-width: 600px){
