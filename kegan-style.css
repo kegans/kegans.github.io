@@ -20,6 +20,10 @@ a {
  color: white;
 }
 
+a:link {
+    text-decoration: none;
+}
+
 h1 {
  font-size: 70px;
  margin: 0px;
