@@ -63,7 +63,7 @@ p {
 }
 
 .files {
- align: center;
+ margin: auto;
 }
 
 @media (max-width: 600px){
